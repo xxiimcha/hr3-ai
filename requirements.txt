@@ -1,0 +1,5 @@
+flask
+pandas
+prophet
+flask-cors
+gunicorn
